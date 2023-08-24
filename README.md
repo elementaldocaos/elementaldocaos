@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elemental do Caos</h1>
 <h3 align="center">My name is Mikael Bradford, showcasing my 4-year journey as a software developer. Despite 14 years including past procrastination, I'm now focused. Converting ideas to code is my newfound joy, thanks to improved time management. lets go!</h3>
-<img align="right" alt="a boy dribling with a skateboard" width="400" src="https://cdn.dribbble.com/users/3324724/screenshots/8934352/media/618ebf8bfaf3165f8a9d1e403e40adeb.gif">
+<img align="right" alt="a boy dribling with a skateboard" width="300" src="https://cdn.dribbble.com/users/3324724/screenshots/8934352/media/618ebf8bfaf3165f8a9d1e403e40adeb.gif">
 <p align="left"> <a href="https://twitter.com/elementaldocaos" target="blank"><img src="https://img.shields.io/twitter/follow/elementaldocaos?logo=twitter&style=for-the-badge" alt="elementaldocaos" /></a> </p>
 
 - 🏃🏿‍♂️ I’m currently **Taking long strides to try not to be so late.**
