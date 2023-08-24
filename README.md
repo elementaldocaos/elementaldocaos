@@ -3,6 +3,7 @@
 <img align="right" alt="a boy dribling with a skateboard" width="250" src="https://cdn.dribbble.com/users/3324724/screenshots/8934352/media/618ebf8bfaf3165f8a9d1e403e40adeb.gif">
 <p align="left"> <a href="https://twitter.com/elementaldocaos" target="blank"><img align="left" src="https://img.shields.io/twitter/follow/elementaldocaos?logo=twitter&style=for-the-badge" alt="elementaldocaos" /></a> </p>
 <br><br><br>
+<ul>
 - 🏃🏿‍♂️ I’m currently Taking long strides to try not to be so late.
 
 - 🌱 I’m currently learning **Data Science and Cyber Security**
@@ -12,7 +13,7 @@
 - 💬 Ask me about: <ul><li>**Data Science: 📊🔍🧠💻📈,</li> <li>Cyber Security: 🔐🌐🛡️💻🔒 & Music🎶 (why not?)**</li></ul>
 
 - ⚡ Fun fact **I can learn things quickly just for fun**
-
+</ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/elementaldocaos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elementaldocaos" height="30" width="40" /></a>
