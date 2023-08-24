@@ -3,13 +3,13 @@
 <img align="right" alt="a boy dribling with a skateboard" width="250" src="https://cdn.dribbble.com/users/3324724/screenshots/8934352/media/618ebf8bfaf3165f8a9d1e403e40adeb.gif">
 <p align="left"> <a href="https://twitter.com/elementaldocaos" target="blank"><img align="left" src="https://img.shields.io/twitter/follow/elementaldocaos?logo=twitter&style=for-the-badge" alt="elementaldocaos" /></a> </p>
 <br><br><br>
-- 🏃🏿‍♂️ I’m currently **Taking long strides to try not to be so late.**
+- 🏃🏿‍♂️ I’m currently Taking long strides to try not to be so late.
 
 - 🌱 I’m currently learning **Data Science and Cyber Security**
 
-- 🙅‍♂️I really don't like front-end development at all **😖🖥️❌🔌**
+- 🙅‍♂️I really don't like front-end development at all 😖🖥️❌🔌
 
-- 💬 Ask me about <ul><li>**Data Science: 📊🔍🧠💻📈,</li> <li>Cyber Security: 🔐🌐🛡️💻🔒 & Music🎶 (why not?)**</li></ul>
+- 💬 Ask me about: <ul><li>**Data Science: 📊🔍🧠💻📈,</li> <li>Cyber Security: 🔐🌐🛡️💻🔒 & Music🎶 (why not?)**</li></ul>
 
 - ⚡ Fun fact **I can learn things quickly just for fun**
 
