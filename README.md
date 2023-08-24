@@ -10,7 +10,7 @@
 
 <li> 🙅‍♂️I really don't like front-end development at all 😖🖥️❌🔌</li>
 
-<li> 💬 Ask me about: <ul><li>**Data Science: 📊🔍🧠💻📈,</li> <li>Cyber Security: 🔐🌐🛡️💻🔒 & Music🎶 (why not?)**</li></ul></li>
+<li> 💬 Ask me about: <ul><li>Data Science: 📊🔍🧠💻📈,</li> <li>Cyber Security: 🔐🌐🛡️💻🔒 & Music🎶 (why not?)**</li></ul></li>
 
 <li> ⚡ Fun fact **I can learn things quickly just for fun**</li>
 </ul>
