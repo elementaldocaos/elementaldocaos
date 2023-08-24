@@ -4,15 +4,15 @@
 <p align="left"> <a href="https://twitter.com/elementaldocaos" target="blank"><img align="left" src="https://img.shields.io/twitter/follow/elementaldocaos?logo=twitter&style=for-the-badge" alt="elementaldocaos" /></a> </p>
 <br><br><br>
 <ul>
-- 🏃🏿‍♂️ I’m currently Taking long strides to try not to be so late.
+<li> 🏃🏿‍♂️ I’m currently Taking long strides to try not to be so late.</li>
 
-- 🌱 I’m currently learning **Data Science and Cyber Security**
+<li> 🌱 I’m currently learning **Data Science and Cyber Security**</li>
 
-- 🙅‍♂️I really don't like front-end development at all 😖🖥️❌🔌
+<li> 🙅‍♂️I really don't like front-end development at all 😖🖥️❌🔌</li>
 
-- 💬 Ask me about: <ul><li>**Data Science: 📊🔍🧠💻📈,</li> <li>Cyber Security: 🔐🌐🛡️💻🔒 & Music🎶 (why not?)**</li></ul>
+<li> 💬 Ask me about: <ul><li>**Data Science: 📊🔍🧠💻📈,</li> <li>Cyber Security: 🔐🌐🛡️💻🔒 & Music🎶 (why not?)**</li></ul></li>
 
-- ⚡ Fun fact **I can learn things quickly just for fun**
+<li> ⚡ Fun fact **I can learn things quickly just for fun**</li>
 </ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
