@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Elemental do Caos</h1>
-<h3 align="center">My name is Mikael Bradford, showcasing my 4-year journey as a software developer. Despite 14 years including past procrastination, I'm now focused. Converting ideas to code is my newfound joy, thanks to improved time management. lets go!</h3>
+<h3 align="center">My name is Mikael Bradford, showcasing my 5-year journey as a technology enthusiast. Despite 14 years including past procrastination, I'm now focused. Converting ideas to code for fun, making projects for my own use. I am the unknown creator of prompt engineering, if without any modesty, but without any pretense of recognition. I have millions of things to do, I am happy if could make some, doing my improved time management. lets go!</h3>
 <img align="right" alt="a boy dribling with a skateboard" width="250" src="https://cdn.dribbble.com/users/3324724/screenshots/8934352/media/618ebf8bfaf3165f8a9d1e403e40adeb.gif">
 <p align="left"> <a href="https://twitter.com/elementaldocaos" target="blank"><img align="left" src="https://img.shields.io/twitter/follow/elementaldocaos?logo=twitter&style=for-the-badge" alt="elementaldocaos" /></a> </p>
 <br><br><br>
 <ul>
 <li> 🏃🏿‍♂️ I’m currently Taking long strides to try not to be so late.</li>
-
-<li> 🌱 I’m currently learning **Data Science and Cyber Security**</li>
-
+<li> 🌱 I’m currently learning what I need</li>
 <li> 🙅‍♂️I really don't like front-end development at all 😖🖥️❌🔌</li>
-
-<li> 💬 Ask me about: <ul><li>Data Science: 📊🔍🧠💻📈,</li> <li>Cyber Security: 🔐🌐🛡️💻🔒 & Music🎶 (why not?)**</li></ul></li>
-
-<li> ⚡ Fun fact **I can learn things quickly just for fun**</li>
+<li> I really like language, learning process and solve problems🙂</li>
+<li> 💬 Ask me about: <ul><li>Learning Processes: 📊🔍🧠💻📈,</li> <li>Machine Learning: 🌐🛡️💻</li>
+  <li> & Music🎶 (why not?)</li></ul>
+<li> ⚡ Fun fact <strong>I can learn things quickly just for fun</strong></li>
 </ul>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/elementaldocaos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elementaldocaos" height="30" width="40" /></a>
