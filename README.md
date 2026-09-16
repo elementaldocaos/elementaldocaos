@@ -4,7 +4,6 @@
 <p align="left"> <a href="https://twitter.com/elementaldocaos" target="blank"><img align="left" src="https://img.shields.io/twitter/follow/elementaldocaos?logo=twitter&style=for-the-badge" alt="elementaldocaos" /></a> </p>
 <br><br><br>
 <ul>
-<li> 🏃🏿‍♂️ I’m currently Taking long strides to try not to be so late.</li>
 <li> 🌱 I’m currently learning what I need</li>
 <li> 🙅‍♂️I really don't like front-end development at all 😖🖥️❌🔌</li>
 <li> I really like language, learning process and solve problems🙂</li>
