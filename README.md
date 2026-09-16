@@ -21,4 +21,4 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elementaldocaos&" alt="elementaldocaos" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elementaldocaos&" alt="elementaldocaos" /></p>-->
