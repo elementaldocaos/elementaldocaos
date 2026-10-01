@@ -24,7 +24,6 @@ I am an independent quantitative researcher and systems architect working at the
 
 - 🏛️ **Founder & Lead Researcher** at [Sepaul Research](https://sepaulresearch.com) (ORCID: [0009-0005-9817-2488](https://orcid.org/0009-0005-9817-2488) | JEL: `C58`, `C61`, `G41` | AMS: `37D45`).
 - 🧠 **Founder & Architect** at [LepoBrain](https://lepobrain.com) — an AI-native adaptive education ecosystem (Web PWA + Native Rust/Tauri desktop client).
-- 🥇 **Ranked 1st Place Overall** in the 2017 National Civil Service Examination (Technical Systems Engineering Track).
 - 🏆 **Top 99th Percentile Nationwide** in the National Examination (ENEM 2018), qualifying for Federal Medical School.
 - 📐 **Industrial Metrology Background**: Sub-10 micron (0.01 mm) tolerance compliance, CAD blueprint auditing, and physical root-cause failure analysis.
 
