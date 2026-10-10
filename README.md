@@ -1,17 +1,17 @@
 <div align="center">
 
 # Mikael Bradford S. R. Sepaul
-### **Quantitative Systems Researcher · AI Systems Architect · Applied Mathematician**
+### **Quantitative Systems Researcher · Systems & AI Architect**
 
 <p align="center">
   <a href="https://sepaulresearch.com"><img src="https://img.shields.io/badge/Institute-Sepaul_Research-06b6d4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Sepaul Research" /></a>
   <a href="https://lepobrain.com"><img src="https://img.shields.io/badge/Platform-LepoBrain-3b82f6?style=for-the-badge&logo=brain&logoColor=white" alt="LepoBrain" /></a>
   <a href="https://orcid.org/0009-0005-9817-2488"><img src="https://img.shields.io/badge/ORCID-0009--0005--9817--2488-a6ce39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
-  <a href="mailto:contact@sepaulresearch.com"><img src="https://img.shields.io/badge/Email-contact@sepaulresearch.com-22c55e?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:mikael@sepaulresearch.com"><img src="https://img.shields.io/badge/Email-mikael@sepaulresearch.com-22c55e?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
-  <i>"Investigating non-linear dynamic systems, chaotic phase-space manifolds, low-latency execution engines, and frontier AI governance."</i>
+  <i>"Investigating non-linear dynamic systems, phase-space reconstructions, systems programming in Rust, and AI-native applications."</i>
 </p>
 
 ---
@@ -20,41 +20,34 @@
 
 ## 🌌 Overview & Research Agenda
 
-I am an independent quantitative researcher and systems architect working at the intersection of **non-linear dynamical systems**, **empirical market microstructure**, and **frontier AI systems**.
+I am an independent quantitative researcher and systems builder focused on **non-linear dynamical systems**, **empirical time-series analysis**, and **AI-native educational software**.
 
-- 🏛️ **Founder & Lead Researcher** at [Sepaul Research](https://sepaulresearch.com) (ORCID: [0009-0005-9817-2488](https://orcid.org/0009-0005-9817-2488)). Focus on dynamic elastic strain, limit cycles, and behavioral econometrics.
-- 🧠 **Founder & Architect** at [LepoBrain](https://lepobrain.com) — an AI-native adaptive education platform and cross-platform desktop application.
-- ⚙️ **Systems Engineering & Metrology**: Practical background in precision systems and dimensional metrology, applying strict tolerance verification to software architecture and AI evaluation.
+- 🏛️ **Founder & Lead Researcher** at [Sepaul Research](https://sepaulresearch.com) (ORCID: [0009-0005-9817-2488](https://orcid.org/0009-0005-9817-2488)). Research focused on dissipative dynamical systems, Takens' delay embedding, and empirical microstructure.
+- 🧠 **Founder & Architect** at [LepoBrain](https://lepobrain.com) — an AI-native adaptive education platform and desktop application (Web PWA + Rust/Tauri desktop client).
+- ⚙️ **Systems Engineering & Metrology**: Practical background in precision systems and dimensional metrology, applying rigorous tolerance verification to software architecture and data pipelines.
 
 ---
 
-## 🔬 Active Research Streams & Systems (In Progress & Production)
+## 🔬 Core Projects & Systems
 
-### 1. [Sepaul Research](https://sepaulresearch.com) — *Non-Linear Dynamics & Behavioral Econometrics*
-> *Status: Working Papers & Empirical Replication Suites in Active Development*
-* **Phase-Space Reconstruction:** Investigating Takens' Embedding Manifold $\Xi_t = [P_t, P_{t-\tau}, \dots, P_{t-(d-1)\tau}]$ to isolate chaotic limit cycles from stochastic market noise.
-* **Dynamic Elastic Strain ($\Delta_t$):** Modeling normalized kinetic deviation $\Delta_t = \frac{|P_t - T_t|}{\sigma_t}$ relative to moving equilibrium tensors.
-* **Retail Self-Destruction Index ($\Omega_t$):** Mathematical formalization of behavioral entropy (Disposition Effect, Loss Aversion Asymmetry) feeding institutional liquidity.
-* **Empirical Verification:** Developing Python/Numba validation models and formal manuscripts prior to open preprint release.
+### 1. [Sepaul Research](https://sepaulresearch.com) — *Non-Linear Dynamics & Quantitative Modeling*
+> *Status: Working Paper TR-2026-01 & Empirical Replication Suites in Development*
+* **Phase-Space Reconstruction:** Investigating Takens' Delay Embedding $\Xi_t = [x_t, x_{t-\tau}, \dots, x_{t-(m-1)\tau}]$ to model limit cycles and attractor geometry from observational time-series.
+* **Dynamical Transitions:** Modeling potential barrier crossings and non-equilibrium state transitions using Langevin drift-diffusion and Kramers escape rate formalism.
+* **Empirical Validation:** Building high-performance numerical routines in Python (Numba JIT) and Rust for Detrended Fluctuation Analysis (DFA-1) and multiscale scaling laws.
 
-### 2. **SunriseRMGR** — *Deterministic Native Rust Risk Engine & MT5 Bridge*
-> *Status: Core Engine & Telemetry in Active Testing*
-* **Low-Latency Architecture:** Sub-5ms tick-to-decision runtime written in native Rust with zero garbage-collection overhead.
-* **IPC Telemetry:** High-throughput memory-mapped circular buffer bridge connecting MetaTrader 5 (`AuditorSentinela` v1.07) to the analytics kernel.
-* **Behavioral Governance:** Automated circuit breakers and cognitive quarantine routines to enforce risk parameters in real time.
-* **Audit Ledger:** Sequential **SHA-256 Merkle Block Hashing** with local AES-256 encrypted persistence.
+### 2. **SunriseMGR** — *Behavioral Audit Engine for MetaTrader 5*
+> *Status: Core Rust Engine & MQL5 Sentinel (Private Research Project)*
+* **Architecture:** Multi-crate Rust workspace (`core`, `truth_engine`, `store`, `bridge`, `orchestrator`) providing low-overhead telemetry and behavioral tracking.
+* **Telemetry Bridge:** Local HTTP loopback server (Axum) receiving real-time transaction updates from MT5 (`AuditorSentinela.mq5`).
+* **Forensic Ledger:** Sequential **SHA-256 hash-chain** auditing each trade event in local SQLite storage to ensure tamper-evident execution history.
+* **Window Orchestration:** Native Win32 window docking coupling MT5 and the audit interface without focus stealing.
 
 ### 3. [LepoBrain](https://lepobrain.com) — *AI-Native Adaptive Learning Platform & Desktop App*
-> *Status: Production Beta (Web + Native Desktop Client)*
-* **Multi-Model Orchestration:** Dynamic model routing (OpenAI, Anthropic) with custom token-budget optimization and prompt hardening.
+> *Status: Live Platform (Web PWA + Native Desktop Client)*
+* **Full-Stack Architecture:** Vanilla JavaScript, Vite, Cloudflare Workers serverless edge backend, and native desktop app built with Rust (Tauri).
 * **Cognitive Modules:** *LepoPhi* (active recall) and *MemÓculos* (spaced repetition) with integrated **KaTeX** mathematical formula rendering.
-* **Edge Infrastructure:** Built on Vanilla JS, Vite, Rust (Tauri), and Cloudflare Workers serverless edge.
-
-### 4. **Grid Gold Quant (XAUUSD) & SunriseHFT**
-> *Status: Algorithmic Modeling & Low-Latency Pipeline Design*
-* **Dynamic Volatility Grid:** Non-linear spacing scaled by ATR percentiles and session liquidity regimes for Spot Gold (XAUUSD).
-* **Regime Switching:** Rolling Hurst Exponent ($H$) estimation to filter trending breakout phases from mean-reverting ranges.
-* **Lock-Free Concurrency:** Zero-copy binary serialization and `crossbeam` ring buffers for market depth processing.
+* **Curriculum & Study Tools:** Interactive exam banks, roadmaps, and adaptive revision workflows.
 
 ---
 
@@ -64,17 +57,17 @@ I am an independent quantitative researcher and systems architect working at the
 
 | Domain | Technologies & Methodologies |
 | :--- | :--- |
-| **Systems & Low-Latency** | `Rust` (Tokio, Tauri, Serde, Crossbeam), `C/C++`, `MQL5`, `IPC / Shared Memory` |
-| **Data & Scientific Computing** | `Python` (NumPy, SciPy, Pandas, Numba, Statsmodels), `LaTeX`, `KaTeX` |
-| **Web & Client Architecture** | `JavaScript / TypeScript` (ESNext), `Vite`, `HTML5 / CSS3`, `Tauri`, `PWA` |
-| **Cloud & Edge Infrastructure** | `Cloudflare Workers & Pages`, `GitHub Actions`, `Git` |
-| **Quantitative & Applied Math** | Non-Linear Dynamics, Takens' Embedding, Hurst Exponent, Lyapunov Metrics, LLM Evaluation |
-| **Quality & Precision QA** | Dimensional Metrology, Technical Blueprint Auditing, Root-Cause Defect Isolation |
+| **Systems & Backend** | `Rust` (Tokio, Axum, Serde), `C/C++`, `MQL5`, `SQLite`, `Win32 API` |
+| **Scientific Computing** | `Python` (NumPy, SciPy, Pandas, Numba), `LaTeX`, `KaTeX` |
+| **Web & Desktop** | `JavaScript` (ESNext), `Vite`, `HTML5 / CSS3`, `Tauri (Rust)`, `PWA` |
+| **Cloud & Infrastructure** | `Cloudflare Workers & Pages`, `Git` |
+| **Applied Mathematics** | Non-Linear Dynamics, Takens' Embedding, DFA-1 Scaling, Langevin Equations |
+| **Quality & Assurance** | Dimensional Metrology, Precision Calibration, Blueprint & Schema Auditing |
 
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,python,ts,js,cpp,wasm,cloudflare,git,github,linux,html,css" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=rust,python,js,cpp,wasm,cloudflare,git,github,linux,html,css" alt="Skill Icons" />
 </p>
 
 ---
@@ -83,14 +76,14 @@ I am an independent quantitative researcher and systems architect working at the
 
 - **Portuguese:** Native
 - **English:** Fluent / Full Professional Proficiency
-- **French:** Working Proficiency
-- **Russian:** Technical Reading & Comprehension
+- **Russian:** Reading & Technical Comprehension
+- **French:** Reading Comprehension
 
 ---
 
 <div align="center">
 
 **Sepaul Research Institute & Platforms:**  
-🌐 [sepaulresearch.com](https://sepaulresearch.com) · 🚀 [lepobrain.com](https://lepobrain.com) · ✉️ [contact@sepaulresearch.com](mailto:contact@sepaulresearch.com) · 🆔 [ORCID: 0009-0005-9817-2488](https://orcid.org/0009-0005-9817-2488)
+🌐 [sepaulresearch.com](https://sepaulresearch.com) · 🚀 [lepobrain.com](https://lepobrain.com) · ✉️ [mikael@sepaulresearch.com](mailto:mikael@sepaulresearch.com) · 🆔 [ORCID: 0009-0005-9817-2488](https://orcid.org/0009-0005-9817-2488)
 
 </div>
